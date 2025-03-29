@@ -9,6 +9,7 @@ class calculadora:
         self.root.geometry("375x550")
         self.root.resizable(False, False)
         # self.root.iconbitmap("calculadora.ico")
+        #subir
         
         self.entrada = tk.Entry(root,  width = 17, font=('Arial', 28), borderwidth=0,
                                 relief='solid', bg="#2b2b2b", fg="white", justify="right")
